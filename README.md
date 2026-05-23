@@ -46,9 +46,7 @@ Create a file data/input.txt with your conversations or use the one already ther
     Human: What is gravity?
     Assistant: Gravity is a force that attracts objects toward each other.
 
-Then tokenize it (if you have a large dataset else no need):
-
-    python data/prepare.py --input data/input.txt
+For a large dataset, tokenized the data would be better.
 
 ### 2. Fine-tune
 
