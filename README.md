@@ -32,6 +32,8 @@ The core idea: GPT-2 already knows English. We just show it 100+ examples of Hum
 
     git clone https://github.com/bricesommers/nanoGPT2
     cd nanoGPT2
+    python3 -m venv .venv
+    source .venv/bin/activate
     pip install -r requirements.txt
 
 ## Usage
