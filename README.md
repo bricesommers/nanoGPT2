@@ -38,7 +38,7 @@ The core idea: GPT-2 already knows English. We just show it 100+ examples of Hum
 
 ### 1. Prepare your dataset
 
-Create a file data/input.txt with your conversations:
+Create a file data/input.txt with your conversations or use the one already there.
 
     Human: What is the capital of France?
     Assistant: The capital of France is Paris.
