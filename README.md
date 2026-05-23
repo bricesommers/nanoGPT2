@@ -36,9 +36,10 @@ The core idea: GPT-2 already knows English. We just show it 100+ examples of Hum
 
 ## Usage
 
-### 1. Prepare your dataset
+### 1. Conversation dataset
 
-Create a file data/input.txt with your conversations or use the one already there.
+A 50-conversation dataset was created covering topics including science, philosophy, AI, programming, and general knowledge. Use it to fine tune GPT-2.
+Each exchange uses a consistent format:
 
     Human: What is the capital of France?
     Assistant: The capital of France is Paris.
