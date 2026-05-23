@@ -30,7 +30,7 @@ The core idea: GPT-2 already knows English. We just show it 100+ examples of Hum
 
 ## Install
 
-    git clone https://github.com/YOUR_USERNAME/nanoGPT2
+    git clone https://github.com/bricesommers/nanoGPT2
     cd nanoGPT2
     pip install -r requirements.txt
 
